@@ -135,7 +135,7 @@ function App() {
             <span className='span'> Page {currentPage} </span>
           </div>
 
- {/* Display Bar Chart and Pie */}
+          {/* Display Bar Chart and Pie */}
           <div style={{display:'flex',justifyContent:'space-around'}}>
             <div>
             <h2>Vehicle Make Distribution</h2>
